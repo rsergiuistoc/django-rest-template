@@ -1,0 +1,28 @@
+# Compiled Python bytecode
+migrations/
+__pycache__/
+*.pyc
+
+# Git
+.git
+.gitignore
+
+# C extensions
+*.so
+
+# CI
+.gitlab-ci.yml
+
+# Docker
+docker-compose.yml
+
+# Env
+.env
+.venv
+env/
+venv/
+
+*.md
+*.bak
+*.log
+*.example
